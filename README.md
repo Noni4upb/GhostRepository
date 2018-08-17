@@ -1,0 +1,2 @@
+# GhostRepository
+# No Ghosts here
